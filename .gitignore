@@ -1,5 +1,29 @@
+# Python virtual environment
 .venv/
+venv/
+
+# Python cache
 __pycache__/
-.env
 *.pyc
-alerts.db
+*.pyo
+*.pyd
+
+# Environment variables (SECRETS)
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Generated outputs
+snapshots/
+clips/
+
+# Logs
+*.log
+
+# Model cache (optional)
+*.pt.cache
