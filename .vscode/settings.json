@@ -1,0 +1,22 @@
+{
+    "git.ignoreLimitWarning": true,
+    "cSpell.words": [
+    "ultralytics",
+    "opencv-python",
+    "numpy",
+    "pillow",
+    "python-dotenv",
+    "yolov",
+    "xyxy",
+    "imwrite",
+    "cooldown",
+    "COOLDOWN",
+    "PERSISTENCE",
+    "dotenv",
+    "rdef",
+    "fourcc",
+    "mjpeg",
+    "endfor",
+    "rgba"
+    ]
+}
